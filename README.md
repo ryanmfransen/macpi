@@ -50,13 +50,13 @@ You'll note I tried to retain many of the original aspects of the case, includin
 
 ## Electronics
 
-As I noted the goal was to use a Raspberry Pi 5, and aside from the LCD display, most of the remaining electronics are in support of mounting the Pi inside the case. This includes the power supply, USB extension cables, ethernet extension cable, speakers, amplifier with volumne control, power button, power connector with switch, Micro SD card extension, and of course the Raspberry Pi 5. I also had to include a USB sound card because believe it or not the RPi 5 doesn't have any provisions for outputting sound directly on the board.
+As I noted the goal was to use a Raspberry Pi 5, and aside from the LCD display, most of the remaining electronics are in support of mounting the Pi inside the case. This includes the power supply, USB extension cables, ethernet extension cable, speakers, amplifier with volumne control, power button, power connector with switch, Micro SD card extension, power LED, and of course the Raspberry Pi 5. I also had to include a USB sound card because believe it or not the RPi 5 doesn't have any provisions for outputting sound directly on the board.
 
 ![](images/Electronic%20Components.png)
 
-I was happy with how the back panel turned out. It houses the power cable and switch, the volume control, a momentary power switch (used to power on and off the RPi via software), the ethernt and two USB connectors.
+I was happy with how the back panel turned out. It houses the power cable and switch, the volume control, a momentary power switch (used to power on and off the RPi via software), the ethernet and two USB connectors.
 
-![](images/Case%20Assembled%20Back%202.png)
+![Case Back](images/Case%20Assembled%20Back%202.png)
 
 Here is a shot of the inside with the components mounted.
 ![Inside Case Open](images/Case%20Inside%20Assembled%202.png)
